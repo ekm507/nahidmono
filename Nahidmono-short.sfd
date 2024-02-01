@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816495
+ModificationTime: 1706816501
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4852,13 +4852,22 @@ EndChar
 StartChar: uni06F8
 Encoding: 1784 1784 94
 GlifName: uni06F_8
-Width: 1281
+Width: 1000
 VWidth: 2952
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 67 1640 S 1 0 0 1 0 0 2
+SplineSet
+38.2646484375 68.1103515625 m 5,0,1
+ 204.87109375 403.256835938 204.87109375 403.256835938 416.599609375 1366.703125 c 5,2,-1
+ 564.267578125 1366.703125 l 5,3,4
+ 748.87109375 528.256835938 748.87109375 528.256835938 972.606445312 78.1240234375 c 5,5,-1
+ 834.143554688 12.5546875 l 5,6,7
+ 619.87109375 471.256835938 619.87109375 471.256835938 490.424804688 1051.12597656 c 5,8,9
+ 342.87109375 389.256835938 342.87109375 389.256835938 166.70703125 12.5537109375 c 5,10,-1
+ 38.2646484375 68.1103515625 l 5,0,1
+EndSplineSet
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4" 87 0 "'kern' Horizontal Kerning lookup 15-4" 91 0 "'kern' Horizontal Kerning lookup 15-4"
 PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F9 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F7 dx=-160 dy=0 dh=-160 dv=0 dx=0 dy=0 dh=0 dv=0
