@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816611
+ModificationTime: 1706816634
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4988,16 +4988,16 @@ EndChar
 StartChar: uniFB7B
 Encoding: 64379 64379 101
 GlifName: uniF_B_7B_
-Width: 1326
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
-AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 491.478 1214.07 basechar 0
+AnchorPoint: "Anchor-7" 466.833 -828.619 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 N 0.949625 0 0 0.949625 433.43 -138.073 2
-Refer: 173 65186 S 1 0 0 1 0 0 2
+Refer: 267 -1 N 0.949625 0 0 0.949625 133.43 -138.073 2
+Refer: 173 65186 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uniFB7C
