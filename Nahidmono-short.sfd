@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706820960
+ModificationTime: 1706820979
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5576,9 +5576,8 @@ AnchorPoint: "Anchor-7" 551.891 -643.77 basechar 0
 AnchorPoint: "Anchor-10" 603.28 1372.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1.07 0 0 1.07 249.705 -427.101 2
+Refer: 265 -1 S 1.07 0 0 1.07 39.705 -427.101 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uniFE70
@@ -8644,7 +8643,6 @@ AnchorPoint: "Anchor-10" 343.28 1372.77 basechar 0
 LayerCount: 2
 Fore
 Refer: 123 64511 S 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uniFEF5
