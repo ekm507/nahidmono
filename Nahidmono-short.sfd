@@ -4537,13 +4537,13 @@ GlifName: uni06A_F_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 325.878 1568.89 basechar 0
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 LayerCount: 2
 Fore
 Refer: 81 1705 N 1 0 0 1 0 0 2
-Refer: 273 -1 S 1.07 0 0 1.07 325.06 -404.991 2
+Refer: 273 -1 N 1.07 0 0 1.07 325.06 -404.991 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB93
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB95
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB94
