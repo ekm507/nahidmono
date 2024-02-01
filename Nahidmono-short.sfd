@@ -5050,7 +5050,7 @@ GlifName: uniF_B_8B_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 517.986 1383.94 basechar 0
 AnchorPoint: "Anchor-7" 332.969 -649.998 basechar 0
 LayerCount: 2
