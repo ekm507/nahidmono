@@ -6741,7 +6741,7 @@ GlifName: uniF_E_B_3
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 589.961 1064.67 basechar 0
 AnchorPoint: "Anchor-7" 639.534 -238.974 basechar 0
 LayerCount: 2
