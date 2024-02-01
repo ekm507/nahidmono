@@ -5875,7 +5875,7 @@ GlifName: uniF_E_8A_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 628.902 -638.086 basechar 0
 AnchorPoint: "Anchor-10" 731.667 1122.17 basechar 0
 LayerCount: 2
@@ -8329,7 +8329,7 @@ GlifName: uniF_E_F_0
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 369.902 -674.086 basechar 0
 AnchorPoint: "Anchor-10" 331.6 742.22 basechar 0
 LayerCount: 2
