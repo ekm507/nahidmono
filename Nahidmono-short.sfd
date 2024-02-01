@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706827867
+ModificationTime: 1706827932
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2424,11 +2424,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-10" 548.559 1032.91 basechar 0
-AnchorPoint: "Anchor-7" 466.557 -604.977 basechar 0
+AnchorPoint: "Anchor-7" 346.557 -604.977 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 256 -1 N 1.07 0 0 1.07 355.185 -427.101 2
+Refer: 256 -1 S 1.07 0 0 1.07 235.185 -427.101 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE90
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE92
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE91
@@ -2456,13 +2456,13 @@ GlifName: uni062A_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
-AnchorPoint: "Anchor-10" 406.559 1267.66 basechar 0
+AnchorPoint: "Anchor-10" 326.559 1267.66 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 257 -1 S 1.07 0 0 1.07 153.562 831.85 2
+Refer: 257 -1 S 1.07 0 0 1.07 73.562 831.85 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE96
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE98
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE97
@@ -4219,23 +4219,23 @@ Width: 1000
 VWidth: 2950
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 277.36 1413.35 basechar 0
-AnchorPoint: "Anchor-7" 418.36 -259.261 basechar 0
+AnchorPoint: "Anchor-10" 207.36 1413.35 basechar 0
+AnchorPoint: "Anchor-7" 348.36 -259.261 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-2.4248046875 352.515625 m 4,0,1
- 4 180 4 180 386.999023438 180.168945312 c 24,2,3
- 799 181 799 181 796.379882812 353.419921875 c 4,4,5
+-137.575195312 352.515625 m 4,0,1
+ -136 180 -136 180 316.999023438 180.168945312 c 28,2,3
+ 799 181 799 181 796.379882812 353.419921875 c 0,4,5
  794 570 794 570 765.463867188 666.631835938 c 1,6,-1
  923.450195312 696.629882812 l 1,7,8
- 963 577 963 577 962.90625 357.712890625 c 4,9,10
- 962 0 962 0 385.356445312 0 c 2,11,-1
- 381.911132812 0 l 2,12,13
- -162 0 -162 0 -162.83984375 333.875 c 4,14,15
- -163 563 -163 563 -135.510742188 685 c 1,16,-1
- 20.3564453125 655 l 1,17,18
- 1 564 1 564 2.4248046875 352.515625 c 4,0,1
+ 963 577 963 577 962.90625 357.712890625 c 0,9,10
+ 962 0 962 0 315.356445312 0 c 6,11,-1
+ 311.911132812 0 l 6,12,13
+ -302 0 -302 0 -302.83984375 333.875 c 4,14,15
+ -303 563 -303 563 -275.510742188 685 c 5,16,-1
+ -119.643554688 655 l 5,17,18
+ -139 564 -139 564 -137.575195312 352.515625 c 4,0,1
 EndSplineSet
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni066E.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni066E.medi
@@ -8172,7 +8172,7 @@ GlifName: uniF_E_E_B_
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 477.134 1290.79 basechar 0
 AnchorPoint: "Anchor-7" 390.852 -239.953 basechar 0
 LayerCount: 2
