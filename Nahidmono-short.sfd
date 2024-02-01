@@ -9246,7 +9246,7 @@ Encoding: 64421 64421 292
 GlifName: uniF_B_A_5.fina
 Width: 1000
 VWidth: 2959
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 484.642 -234.09 basechar 0
 AnchorPoint: "Anchor-10" 610.954 1813.59 basechar 0
 LayerCount: 2
