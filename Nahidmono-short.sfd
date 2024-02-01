@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816888
+ModificationTime: 1706816902
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5050,12 +5050,12 @@ GlifName: uniF_B_8B_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 457.986 1383.94 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 517.986 1383.94 basechar 0
 AnchorPoint: "Anchor-7" 332.969 -649.998 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1.07 0 0 1.07 208.745 726.971 2
+Refer: 266 -1 S 1.07 0 0 1.07 268.745 726.971 2
 Refer: 185 65198 N 1 0 0 1 0 0 2
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=58 dy=0 dh=58 dv=0 dx=0 dy=0 dh=0 dv=0
