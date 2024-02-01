@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706819110
+ModificationTime: 1706819132
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2381,12 +2381,12 @@ GlifName: afii57414
 Width: 1000
 VWidth: 2703
 GlyphClass: 3
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 595.902 -800.086 basechar 0
-AnchorPoint: "Anchor-10" 621.99 1488.16 basechar 0
+AnchorPoint: "Anchor-10" 351.99 1488.16 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 1620 S 1 0 0 1 -48.294 -989.54 2
+Refer: 55 1620 S 1 0 0 1 -318.294 -989.54 2
 Refer: 44 1609 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni064A uni0654
@@ -5846,7 +5846,7 @@ GlifName: uniF_E_88
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 252.986 1556.87 basechar 0
 AnchorPoint: "Anchor-7" 292.011 -724.616 basechar 0
 LayerCount: 2
@@ -5861,7 +5861,7 @@ GlifName: uniF_E_89
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 651.902 -632.086 basechar 0
 AnchorPoint: "Anchor-10" 581.147 1434.07 basechar 0
 LayerCount: 2
