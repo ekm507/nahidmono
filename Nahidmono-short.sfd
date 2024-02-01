@@ -3062,7 +3062,7 @@ GlifName: uni0643
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 130.268 -238.468 basechar 0
 AnchorPoint: "Anchor-10" 244.671 1448.06 basechar 0
 LayerCount: 2
