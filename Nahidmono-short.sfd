@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706817018
+ModificationTime: 1706817135
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5223,12 +5223,12 @@ GlifName: uniF_B_93
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 927.878 1530.89 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 107.878 1530.89 basechar 0
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 LayerCount: 2
 Fore
-Refer: 273 -1 N 1.07 0 0 1.07 935.06 -404.991 2
+Refer: 273 -1 S 1.07 0 0 1.07 115.06 -404.991 2
 Refer: 107 64399 N 1 0 0 1 0 0 2
 EndChar
 
