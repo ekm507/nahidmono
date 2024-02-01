@@ -9350,7 +9350,7 @@ Encoding: 65564 -1 297
 GlifName: N_ameM_e.65564
 Width: 1000
 VWidth: 2950
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 186.697 1423.11 basechar 0
 AnchorPoint: "Anchor-7" 246.078 -241.903 basechar 0
 LayerCount: 2
