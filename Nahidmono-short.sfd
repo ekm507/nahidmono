@@ -6280,7 +6280,7 @@ GlifName: uniF_E_A_3
 Width: 1000
 VWidth: 2186
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 503.825 1186.07 basechar 0
 AnchorPoint: "Anchor-7" 443.524 -236.745 basechar 0
 LayerCount: 2
