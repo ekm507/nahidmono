@@ -7700,7 +7700,7 @@ GlifName: uniF_E_C_E_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 552.833 -850.619 basechar 0
 AnchorPoint: "Anchor-10" 428.2 1362.9 basechar 0
 LayerCount: 2
