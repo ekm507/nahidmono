@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706819459
+ModificationTime: 1706819481
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -6062,7 +6062,7 @@ GlifName: uniF_E_96
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 220.559 1224.98 basechar 0
 LayerCount: 2
@@ -6077,13 +6077,13 @@ GlifName: uniF_E_97
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 1023.28 1332.77 basechar 0
+AnchorPoint: "Anchor-10" 553.28 1332.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 118 64488 S 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 736.218 944.776 2
+Refer: 118 64488 N 1 0 0 1 0 0 2
+Refer: 265 -1 S 1.07 0 0 1.07 266.218 944.776 2
 EndChar
 
 StartChar: uniFE98
