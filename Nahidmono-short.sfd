@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816517
+ModificationTime: 1706816555
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4929,15 +4929,15 @@ EndChar
 StartChar: uniFB57
 Encoding: 64343 64343 97
 GlifName: uniF_B_57
-Width: 1811
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 888.559 1032.91 basechar 0
-AnchorPoint: "Anchor-7" 895.158 -808.082 basechar 0
+AnchorPoint: "Anchor-10" 367.559 1032.91 basechar 0
+AnchorPoint: "Anchor-7" 305.158 -808.082 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 N 1.07 0 0 1.07 625.972 -415.637 2
+Refer: 267 -1 N 1.07 0 0 1.07 35.972 -415.637 2
 Refer: 268 -1 N 1 0 0 1 0 0 2
 EndChar
 
