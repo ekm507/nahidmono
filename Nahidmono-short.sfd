@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816248
+ModificationTime: 1706816259
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4128,18 +4128,18 @@ EndChar
 StartChar: uni066B
 Encoding: 1643 1643 70
 GlifName: uni066B_
-Width: 822
+Width: 1000
 VWidth: 2952
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-532.755859375 818.005859375 m 1,0,-1
- 664.05859375 762.266601562 l 1,1,-1
- 199.7890625 -309.061523438 l 1,2,-1
- 66.3642578125 -250.9921875 l 1,3,-1
- 532.755859375 818.005859375 l 1,0,-1
+632.755859375 818.005859375 m 5,0,-1
+ 764.05859375 762.266601562 l 5,1,-1
+ 299.7890625 -309.061523438 l 5,2,-1
+ 166.364257812 -250.9921875 l 5,3,-1
+ 632.755859375 818.005859375 l 5,0,-1
 EndSplineSet
 EndChar
 
