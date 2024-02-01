@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706815135
+ModificationTime: 1706815174
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2604,7 +2604,7 @@ GlifName: uni0631
 Width: 1000
 VWidth: 2186
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 551.256 944.2 basechar 0
 AnchorPoint: "Anchor-7" 312.969 -675.998 basechar 0
 LayerCount: 2
@@ -2682,16 +2682,16 @@ EndChar
 StartChar: uni0632
 Encoding: 1586 1586 26
 GlifName: uni0632
-Width: 816
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 252.969 -675.998 basechar 0
-AnchorPoint: "Anchor-10" 461.256 1234.2 basechar 0
+AnchorPoint: "Anchor-10" 561.256 1234.2 basechar 0
 LayerCount: 2
 Fore
 Refer: 25 1585 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1.10566 0 0 1.10566 369.057 791.912 2
+Refer: 264 -1 S 1.10566 0 0 1.10566 469.057 791.912 2
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-178 dy=0 dh=-178 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -6527,7 +6527,7 @@ EndChar
 StartChar: uniFEAF
 Encoding: 65199 65199 186
 GlifName: uniF_E_A_F_
-Width: 816
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
