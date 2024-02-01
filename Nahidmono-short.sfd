@@ -7760,7 +7760,7 @@ GlifName: uniF_E_D_2
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 598.47 1438.31 basechar 0
 LayerCount: 2
