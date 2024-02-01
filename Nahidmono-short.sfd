@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816857
+ModificationTime: 1706816888
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5047,7 +5047,7 @@ EndChar
 StartChar: uniFB8B
 Encoding: 64395 64395 105
 GlifName: uniF_B_8B_
-Width: 854
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6500,30 +6500,30 @@ EndChar
 StartChar: uniFEAE
 Encoding: 65198 65198 185
 GlifName: uniF_E_A_E_
-Width: 854
+Width: 1000
 VWidth: 2142
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-7" 252.969 -675.998 basechar 0
-AnchorPoint: "Anchor-10" 491.256 944.2 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-7" 312.969 -675.998 basechar 0
+AnchorPoint: "Anchor-10" 551.256 944.2 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-702.671875 48 m 5,0,1
- 698 12 698 12 688 -26.6271661632 c 0,2,3
- 589 -411 589 -411 30.0469 -465.593 c 1,4,-1
- 0.650391 -302.476 l 1,5,6
- 547 -258 547 -258 545.470200934 159.634027804 c 0,7,8
- 545 308 545 308 453.275 441.023 c 1,9,-1
- 599.998 518.564 l 1,10,11
- 628 450 628 450 697 298 c 8,12,13
- 751.000446901 179.999023438 751.000446901 179.999023438 835.31640625 179.999023438 c 2,14,-1
- 862.57421875 179.999023438 l 2,15,16
- 880.638671875 179.99998085 880.638671875 179.99998085 880.638671875 110.322265625 c 2,17,-1
- 880.638671875 86.201171875 l 2,18,19
- 881 0 881 0 862.57421875 0 c 2,20,-1
- 845.80078125 0 l 2,21,22
- 746 0 746 0 702.671875 48 c 5,0,1
+762.671875 48 m 1,0,1
+ 758 12 758 12 748 -26.626953125 c 0,2,3
+ 649 -411 649 -411 90.046875 -465.592773438 c 1,4,-1
+ 60.650390625 -302.475585938 l 1,5,6
+ 607 -258 607 -258 605.469726562 159.633789062 c 0,7,8
+ 605 308 605 308 513.275390625 441.0234375 c 1,9,-1
+ 659.998046875 518.564453125 l 1,10,11
+ 688 450 688 450 757 298 c 8,12,13
+ 811.000446901 179.999023438 811.000446901 179.999023438 975.31640625 179.999023438 c 6,14,-1
+ 1002.57421875 179.999023438 l 6,15,16
+ 1020.63867188 179.99998085 1020.63867188 179.99998085 1020.63867188 110.322265625 c 6,17,-1
+ 1020.63867188 86.201171875 l 6,18,19
+ 1021 0 1021 0 1002.57421875 0 c 6,20,-1
+ 985.80078125 0 l 6,21,22
+ 806 0 806 0 762.671875 48 c 1,0,1
 EndSplineSet
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -6602,7 +6602,7 @@ EndChar
 StartChar: uniFEB0
 Encoding: 65200 65200 187
 GlifName: uniF_E_B_0
-Width: 854
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
