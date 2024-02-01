@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706815075
+ModificationTime: 1706815082
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2492,13 +2492,13 @@ GlifName: uni062C_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
 LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1.07 0 0 1.07 701.95 -174.716 2
+Refer: 264 -1 S 1.07 0 0 1.07 511.95 -174.716 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9E
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA0
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFE9F
@@ -2510,7 +2510,7 @@ GlifName: uni062D_
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 481.478 1214.07 basechar 0
 AnchorPoint: "Anchor-7" 456.833 -828.619 basechar 0
 LayerCount: 2
