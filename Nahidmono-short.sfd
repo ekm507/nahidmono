@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706815042
+ModificationTime: 1706815075
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2474,7 +2474,7 @@ GlifName: uni062B_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 420.266 1391.83 basechar 0
 LayerCount: 2
@@ -2489,7 +2489,7 @@ EndChar
 StartChar: uni062C
 Encoding: 1580 1580 20
 GlifName: uni062C_
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -2507,32 +2507,32 @@ EndChar
 StartChar: uni062D
 Encoding: 1581 1581 21
 GlifName: uni062D_
-Width: 1306
+Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
-AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 481.478 1214.07 basechar 0
+AnchorPoint: "Anchor-7" 456.833 -828.619 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-794 535 m 1,0,1
- 505 652 505 652 429 652 c 0,2,3
- 334 652 334 652 207.9296875 503.7109375 c 1,4,-1
- 82.1181640625 610.26171875 l 1,5,6
- 234 830 234 830 415 830 c 0,7,8
- 505 830 505 830 822 702 c 0,9,10
- 1049 610 1049 610 1199 601 c 1,11,-1
- 1183.06445312 426.818359375 l 1,12,13
- 1008 416 1008 416 892.25 389.517578125 c 0,14,15
- 283 247 283 247 283.249023438 -121.301757812 c 0,16,17
- 283 -472 283 -472 816.381835938 -471.783203125 c 0,18,19
- 1007 -472 1007 -472 1186.30664062 -387.446289062 c 1,20,-1
- 1186.00195312 -570.739257812 l 1,21,22
- 1034 -643 1034 -643 801.529296875 -643.249023438 c 0,23,24
- 315 -643 315 -643 169.65234375 -367.3046875 c 0,25,26
- 117 -267 117 -267 116.987304688 -136.852539062 c 0,27,28
- 117 385 117 385 794 535 c 1,0,1
+634 535 m 1,0,1
+ 345 652 345 652 258 652 c 4,2,3
+ 163 652 163 652 36.9296875 503.7109375 c 5,4,-1
+ -88.8818359375 610.26171875 l 5,5,6
+ 63 830 63 830 244 830 c 4,7,8
+ 352 830 352 830 662 702 c 0,9,10
+ 905 602 905 602 919 601 c 1,11,-1
+ 903.064453125 426.818359375 l 1,12,13
+ 722 416 722 416 612.25 389.517578125 c 0,14,15
+ 112 267 112 267 112.249023438 -121.301757812 c 4,16,17
+ 112 -471 112 -471 656.381835938 -471.783203125 c 0,18,19
+ 727 -472 727 -472 906.306640625 -387.446289062 c 1,20,-1
+ 906.001953125 -570.739257812 l 1,21,22
+ 754 -643 754 -643 641.529296875 -643.249023438 c 0,23,24
+ 144 -643 144 -643 -1.34765625 -367.3046875 c 4,25,26
+ -54 -267 -54 -267 -54.0126953125 -136.852539062 c 4,27,28
+ -54 381 -54 381 634 535 c 1,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA2
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA4
@@ -2542,7 +2542,7 @@ EndChar
 StartChar: uni062E
 Encoding: 1582 1582 22
 GlifName: uni062E_
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -4361,7 +4361,7 @@ EndChar
 StartChar: afii57507
 Encoding: 1670 1670 78
 GlifName: afii57507
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -4913,7 +4913,7 @@ EndChar
 StartChar: uniFB7A
 Encoding: 64378 64378 100
 GlifName: uniF_B_7A_
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6102,7 +6102,7 @@ EndChar
 StartChar: uniFE9D
 Encoding: 65181 65181 168
 GlifName: uniF_E_9D_
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6161,7 +6161,7 @@ EndChar
 StartChar: uniFEA1
 Encoding: 65185 65185 172
 GlifName: uniF_E_A_1
-Width: 1306
+Width: 1000
 VWidth: 2698
 GlyphClass: 2
 Flags: W
@@ -6288,7 +6288,7 @@ EndChar
 StartChar: uniFEA5
 Encoding: 65189 65189 176
 GlifName: uniF_E_A_5
-Width: 1306
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
