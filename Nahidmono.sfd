@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706809824
+ModificationTime: 1706809917
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2381,7 +2381,7 @@ GlifName: afii57414
 Width: 1600
 VWidth: 2703
 GlyphClass: 3
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 595.902 -800.086 basechar 0
 AnchorPoint: "Anchor-10" 621.99 1488.16 basechar 0
 LayerCount: 2
@@ -5727,12 +5727,12 @@ GlifName: uniF_E_84
 Width: 1600
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-10" 568.896 2003.68 basechar 0
 AnchorPoint: "Anchor-7" 342.442 -233.503 basechar 0
 LayerCount: 2
 Fore
-Refer: 55 1620 S 1 0 0 1 -88.135 -352.782 2
+Refer: 55 1620 S 1 0 0 1 -478.135 -352.782 2
 Refer: 297 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5762,7 +5762,7 @@ AnchorPoint: "Anchor-10" 647.245 1538.43 basechar 0
 LayerCount: 2
 Fore
 Refer: 249 65262 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 29.64 -846.291 2
+Refer: 55 1620 S 1 0 0 1 -420.36 -846.291 2
 EndChar
 
 StartChar: uniFE87
@@ -5786,12 +5786,12 @@ Width: 1600
 VWidth: 2703
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 792.986 1556.87 basechar 0
-AnchorPoint: "Anchor-7" 832.011 -724.616 basechar 0
+AnchorPoint: "Anchor-10" 802.986 1556.87 basechar 0
+AnchorPoint: "Anchor-7" 842.011 -724.616 basechar 0
 LayerCount: 2
 Fore
 Refer: 153 65166 N 1 0 0 1 0 0 2
-Refer: 56 1621 S 1 0 0 1 206.028 -183.982 2
+Refer: 56 1621 S 1 0 0 1 -163.972 -183.982 2
 EndChar
 
 StartChar: uniFE89
@@ -5820,7 +5820,7 @@ AnchorPoint: "Anchor-10" 731.667 1122.17 basechar 0
 LayerCount: 2
 Fore
 Refer: 251 65264 N 1 0 0 1 0 0 2
-Refer: 55 1620 N 1 0 0 1 74.9298 -1309.34 2
+Refer: 55 1620 S 1 0 0 1 -285.07 -1309.34 2
 EndChar
 
 StartChar: uniFE8B
@@ -5831,11 +5831,11 @@ VWidth: 2703
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
-AnchorPoint: "Anchor-10" 852.509 1480.71 basechar 0
+AnchorPoint: "Anchor-10" 622.509 1480.71 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 190.507 -873.793 2
+Refer: 55 1620 S 1 0 0 1 -39.493 -873.793 2
 EndChar
 
 StartChar: uniFE8C
@@ -5850,7 +5850,7 @@ AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
 Refer: 119 64489 N 1 0 0 1 0 0 2
-Refer: 55 1620 S 1 0 0 1 -151.516 -970.309 2
+Refer: 55 1620 S 1 0 0 1 -502.516 -970.309 2
 EndChar
 
 StartChar: uniFE8D
