@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706820568
+ModificationTime: 1706820576
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -7526,7 +7526,7 @@ GlifName: uniF_E_C_A_
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 411.833 -854.619 basechar 0
 AnchorPoint: "Anchor-10" 418.833 1114.24 basechar 0
 LayerCount: 2
@@ -7577,10 +7577,10 @@ EndChar
 StartChar: uniFECB
 Encoding: 65227 65227 214
 GlifName: uniF_E_C_B_
-Width: 1038
+Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-10" 514.493 1187.05 basechar 0
 AnchorPoint: "Anchor-7" 434.511 -237.021 basechar 0
 LayerCount: 2
@@ -7626,7 +7626,6 @@ SplineSet
  765 865 765 865 897.498046875 728.912109375 c 1,63,-1
  832.09765625 585.458984375 l 1,0,1
 EndSplineSet
-Validated: 524321
 EndChar
 
 StartChar: uniFECC
@@ -7714,7 +7713,7 @@ EndChar
 StartChar: uniFECF
 Encoding: 65231 65231 218
 GlifName: uniF_E_C_F_
-Width: 1038
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -7724,7 +7723,6 @@ LayerCount: 2
 Fore
 Refer: 214 65227 N 1 0 0 1 0 0 2
 Refer: 264 -1 S 1.07 0 0 1.07 436.145 1101.61 2
-Validated: 1
 EndChar
 
 StartChar: uniFED0
