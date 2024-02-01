@@ -9,3 +9,5 @@
 
 # قلم ناهیدمونو با تنوع کوتاه
 در قلم nahidmono-short طول گلیف‌ها ۶۰٪ کوتاه‌تر شده است.
+
+![picture](nahidmono-short1.jpg)
