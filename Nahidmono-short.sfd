@@ -6312,7 +6312,7 @@ GlifName: uniF_E_A_4
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 373.825 1186.07 basechar 0
 AnchorPoint: "Anchor-7" 313.524 -236.745 basechar 0
 LayerCount: 2
