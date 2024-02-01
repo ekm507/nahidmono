@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816012
+ModificationTime: 1706816021
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -3936,10 +3936,10 @@ EndChar
 StartChar: afii57396
 Encoding: 1636 1636 63
 GlifName: afii57396
-Width: 1046
+Width: 1000
 VWidth: 2952
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
