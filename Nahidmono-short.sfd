@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816324
+ModificationTime: 1706816337
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4379,16 +4379,16 @@ EndChar
 StartChar: afii57508
 Encoding: 1688 1688 79
 GlifName: afii57508
-Width: 820
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-7" 324.969 -637.998 basechar 0
-AnchorPoint: "Anchor-10" 467.986 1379.94 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-7" 344.969 -637.998 basechar 0
+AnchorPoint: "Anchor-10" 487.986 1379.94 basechar 0
 LayerCount: 2
 Fore
-Refer: 25 1585 N 1 0 0 1 0 0 2
-Refer: 266 -1 N 1.07 0 0 1.07 208.745 726.971 2
+Refer: 25 1585 S 1 0 0 1 20 0 2
+Refer: 266 -1 S 1.07 0 0 1.07 228.745 726.971 2
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=58 dy=0 dh=58 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-1" uniFEE7 dx=-116 dy=0 dh=-116 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -4972,7 +4972,7 @@ EndChar
 StartChar: uniFB8A
 Encoding: 64394 64394 104
 GlifName: uniF_B_8A_
-Width: 820
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
