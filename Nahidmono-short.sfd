@@ -2492,7 +2492,7 @@ GlifName: uni062C_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
 LayerCount: 2
