@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706815099
+ModificationTime: 1706815117
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2560,24 +2560,24 @@ EndChar
 StartChar: uni062F
 Encoding: 1583 1583 23
 GlifName: uni062F_
-Width: 950
+Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 372.137 1259.03 basechar 0
-AnchorPoint: "Anchor-7" 427.24 -241.316 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 382.137 1259.03 basechar 0
+AnchorPoint: "Anchor-7" 437.24 -241.316 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-102.982421875 204.750976562 m 1,0,1
- 223 180 223 180 331.662109375 180.107421875 c 0,2,3
- 674 180 674 180 673.954101562 350.380859375 c 0,4,5
- 674 545 674 545 305.498046875 776.791015625 c 1,6,-1
- 376.952148438 939.935546875 l 1,7,8
- 847 656 847 656 846.479492188 352.899414062 c 0,9,10
- 846 3 846 3 344.806640625 2.259765625 c 0,11,12
- 209 2 209 2 102.982421875 25.462890625 c 1,13,-1
- 102.982421875 204.750976562 l 1,0,1
+112.982421875 204.750976562 m 5,0,1
+ 233 180 233 180 341.662109375 180.107421875 c 4,2,3
+ 684 180 684 180 683.954101562 350.380859375 c 4,4,5
+ 684 545 684 545 315.498046875 776.791015625 c 5,6,-1
+ 386.952148438 939.935546875 l 5,7,8
+ 857 656 857 656 856.479492188 352.899414062 c 4,9,10
+ 856 3 856 3 354.806640625 2.259765625 c 4,11,12
+ 219 2 219 2 112.982421875 25.462890625 c 5,13,-1
+ 112.982421875 204.750976562 l 5,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAA
 EndChar
@@ -2585,7 +2585,7 @@ EndChar
 StartChar: uni0630
 Encoding: 1584 1584 24
 GlifName: uni0630
-Width: 950
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -6347,7 +6347,7 @@ EndChar
 StartChar: uniFEA9
 Encoding: 65193 65193 180
 GlifName: uniF_E_A_9
-Width: 950
+Width: 1000
 VWidth: 2959
 GlyphClass: 2
 Flags: W
@@ -6396,7 +6396,7 @@ EndChar
 StartChar: uniFEAB
 Encoding: 65195 65195 182
 GlifName: uniF_E_A_B_
-Width: 950
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
