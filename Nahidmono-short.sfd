@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816457
+ModificationTime: 1706816467
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -4635,13 +4635,13 @@ EndChar
 StartChar: uni06F1
 Encoding: 1777 1777 87
 GlifName: uni06F_1
-Width: 716
+Width: 1000
 VWidth: 2952
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
-Refer: 60 1633 N 1 0 0 1 0 0 2
+Refer: 60 1633 S 1 0 0 1 30 0 2
 Kerns2: 86 0 "'kern' Horizontal Kerning lookup 15-4"
 PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F6 dx=-43 dy=0 dh=-43 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 15-4" uni06F8 dx=-100 dy=0 dh=-100 dv=0 dx=0 dy=0 dh=0 dv=0
