@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816840
+ModificationTime: 1706816857
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5021,12 +5021,12 @@ GlifName: uniF_B_7D_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-7" 699.152 -905.626 basechar 0
-AnchorPoint: "Anchor-10" 581.825 1372.07 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-7" 419.152 -905.626 basechar 0
+AnchorPoint: "Anchor-10" 301.825 1372.07 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1.07 0 0 1.07 416.806 -415.637 2
+Refer: 267 -1 S 1.07 0 0 1.07 136.806 -415.637 2
 Refer: 175 65188 N 1 0 0 1 0 0 2
 EndChar
 
