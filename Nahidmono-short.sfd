@@ -5731,7 +5731,7 @@ GlifName: uniF_E_80
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 595.953 1451.2 basechar 0
 AnchorPoint: "Anchor-7" 658.459 -206.697 basechar 0
 LayerCount: 2
