@@ -5333,7 +5333,7 @@ GlifName: uniF_B_A_D_
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 500.648 1375.04 basechar 0
 AnchorPoint: "Anchor-7" 481.16 -833.603 basechar 0
 LayerCount: 2
