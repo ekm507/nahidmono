@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706814932
+ModificationTime: 1706814941
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2073,7 +2073,7 @@ GlifName: colon
 Width: 1000
 VWidth: 2762
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -2113,10 +2113,10 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 4
 GlifName: uni00A_0
-Width: 600
+Width: 1000
 VWidth: 2532
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 EndChar
 
