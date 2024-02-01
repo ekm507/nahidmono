@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706815508
+ModificationTime: 1706815519
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2931,7 +2931,7 @@ AnchorPoint: "Anchor-10" 481.36 1544.58 basechar 0
 LayerCount: 2
 Fore
 Refer: 31 1591 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 866.677 1043.01 2
+Refer: 264 -1 S 1.07 0 0 1.07 536.677 1043.01 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC6
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC8
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEC7
