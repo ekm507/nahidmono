@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706816387
+ModificationTime: 1706816433
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -3188,7 +3188,7 @@ EndChar
 StartChar: uni0646
 Encoding: 1606 1606 41
 GlifName: uni0646
-Width: 1405
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
@@ -4552,29 +4552,29 @@ EndChar
 StartChar: afii57514
 Encoding: 1722 1722 83
 GlifName: afii57514
-Width: 1405
+Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: W
-AnchorPoint: "Anchor-10" 697.479 1235.75 basechar 0
-AnchorPoint: "Anchor-7" 728.023 -685.042 basechar 0
+Flags: WO
+AnchorPoint: "Anchor-10" 367.479 1235.75 basechar 0
+AnchorPoint: "Anchor-7" 398.023 -685.042 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1244.97265625 573.43359375 m 1,0,1
- 1301 404 1301 404 1300.625 213 c 0,2,3
- 1300 -33 1300 -33 1199 -180.47265625 c 4,4,5
- 1048 -401 1048 -401 681 -401 c 0,6,7
- 500 -401 500 -401 361 -329.172851562 c 0,8,9
- 104 -196 104 -196 104.756835938 166.0390625 c 0,10,11
- 105 324 105 324 170.4609375 513.120117188 c 1,12,-1
- 327.90625 467.790039062 l 1,13,14
- 274 300 274 300 274.272460938 167.859375 c 0,15,16
- 275 -228 275 -228 693.40234375 -229.203125 c 0,17,18
- 958 -230 958 -230 1063.68066406 -68.43359375 c 0,19,20
- 1136 42 1136 42 1136.609375 231.943359375 c 0,21,22
- 1137 362 1137 362 1078.203125 532.823242188 c 1,23,-1
- 1244.97265625 573.43359375 l 1,0,1
+914.97265625 573.43359375 m 5,0,1
+ 971 404 971 404 970.625 213 c 4,2,3
+ 970 -33 970 -33 869 -180.47265625 c 4,4,5
+ 718 -401 718 -401 351 -401 c 4,6,7
+ 170 -401 170 -401 31 -329.172851562 c 4,8,9
+ -226 -196 -226 -196 -225.243164062 166.0390625 c 4,10,11
+ -225 324 -225 324 -159.5390625 513.120117188 c 5,12,-1
+ -2.09375 467.790039062 l 5,13,14
+ -56 300 -56 300 -55.7275390625 167.859375 c 4,15,16
+ -55 -228 -55 -228 363.40234375 -229.203125 c 4,17,18
+ 628 -230 628 -230 733.680664062 -68.43359375 c 4,19,20
+ 806 42 806 42 806.609375 231.943359375 c 4,21,22
+ 807 362 807 362 748.203125 532.823242188 c 5,23,-1
+ 914.97265625 573.43359375 l 5,0,1
 EndSplineSet
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni06BA.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni06BA.medi
@@ -5204,7 +5204,7 @@ EndChar
 StartChar: uniFB9E
 Encoding: 64414 64414 114
 GlifName: uniF_B_9E_
-Width: 1405
+Width: 1000
 VWidth: 2957
 GlyphClass: 2
 Flags: W
@@ -7992,7 +7992,7 @@ EndChar
 StartChar: uniFEE5
 Encoding: 65253 65253 240
 GlifName: uniF_E_E_5
-Width: 1405
+Width: 1000
 VWidth: 2703
 GlyphClass: 2
 Flags: W
