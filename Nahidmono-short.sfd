@@ -2563,7 +2563,7 @@ GlifName: uni062F_
 Width: 1000
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 382.137 1259.03 basechar 0
 AnchorPoint: "Anchor-7" 437.24 -241.316 basechar 0
 LayerCount: 2
@@ -2588,7 +2588,7 @@ GlifName: uni0630
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-7" 437.24 -239.316 basechar 0
 AnchorPoint: "Anchor-10" 368.56 1535.42 basechar 0
 LayerCount: 2
