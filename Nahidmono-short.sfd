@@ -4604,7 +4604,7 @@ GlifName: afii57534
 Width: 1000
 VWidth: 2703
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-10" 561.299 1434.5 basechar 0
 AnchorPoint: "Anchor-7" 534.688 -251.254 basechar 0
 LayerCount: 2
