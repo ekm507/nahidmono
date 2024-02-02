@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706865187
+ModificationTime: 1706865436
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -1992,7 +1992,7 @@ ExpansionFactor 4 0.06
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 553984 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2"""  "Anchor-3"""  "Anchor-4" "'mkmk' Mark to Mark lookup 4 anchor 0" "Anchor-5" "'mkmk' Mark to Mark lookup 4 anchor 1" "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 6 subtable" "Anchor-8" "'mark' Mark Positioning lookup 7 subtable" "Anchor-9" "'mark' Mark Positioning lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning lookup 9 subtable" "Anchor-11"""  "Anchor-12"""  "Anchor-13"""  "Anchor-14"""  "Anchor-15"""  "Anchor-16"""  "Anchor-17"""  "Anchor-18"""  "Anchor-19""" 
-BeginChars: 65566 302
+BeginChars: 65566 294
 
 StartChar: space
 Encoding: 32 32 0
@@ -2446,7 +2446,7 @@ AnchorPoint: "Anchor-7" 876.557 -604.977 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 765.185 -427.101 2
+Refer: 256 -1 S 1.07 0 0 1.07 765.185 -427.101 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE90
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE92
@@ -2465,7 +2465,7 @@ AnchorPoint: "Anchor-7" 450.721 -233.725 basechar 0
 LayerCount: 2
 Fore
 Refer: 42 1607 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 449.229 1089.81 2
+Refer: 257 -1 S 1.07 0 0 1.07 449.229 1089.81 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE94
 EndChar
@@ -2482,7 +2482,7 @@ AnchorPoint: "Anchor-10" 786.559 1267.66 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 533.562 831.85 2
+Refer: 257 -1 S 1.07 0 0 1.07 533.562 831.85 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE96
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE98
@@ -2501,7 +2501,7 @@ AnchorPoint: "Anchor-10" 820.266 1391.83 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 563.562 790.477 2
+Refer: 258 -1 S 1.07 0 0 1.07 563.562 790.477 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9A
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFE9C
@@ -2520,7 +2520,7 @@ AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
 LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 821.95 -174.716 2
+Refer: 256 -1 S 1.07 0 0 1.07 821.95 -174.716 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFE9E
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEA0
@@ -2574,7 +2574,7 @@ AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 AnchorPoint: "Anchor-10" 589.122 1427.84 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 486.894 1068.26 2
+Refer: 256 -1 S 1.07 0 0 1.07 486.894 1068.26 2
 Refer: 21 1581 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEA6
@@ -2620,7 +2620,7 @@ AnchorPoint: "Anchor-10" 638.56 1535.42 basechar 0
 LayerCount: 2
 Fore
 Refer: 23 1583 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 534.167 1155.91 2
+Refer: 256 -1 S 1.07 0 0 1.07 534.167 1155.91 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEAC
 EndChar
@@ -2719,7 +2719,7 @@ AnchorPoint: "Anchor-10" 801.256 1234.2 basechar 0
 LayerCount: 2
 Fore
 Refer: 25 1585 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.10566 0 0 1.10566 709.057 791.912 2
+Refer: 256 -1 S 1.10566 0 0 1.10566 709.057 791.912 2
 Validated: 1
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=60 dy=0 dh=60 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -2839,7 +2839,7 @@ AnchorPoint: "Anchor-7" 651.902 -704.086 basechar 0
 AnchorPoint: "Anchor-10" 934.73 1484.82 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1.07 0 0 1.07 698.92 821.192 2
+Refer: 258 -1 S 1.07 0 0 1.07 698.92 821.192 2
 Refer: 27 1587 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEB6
@@ -2903,7 +2903,7 @@ AnchorPoint: "Anchor-7" 651.902 -704.086 basechar 0
 AnchorPoint: "Anchor-10" 1142.53 1463.1 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1068.98 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 1068.98 1043.01 2
 Refer: 29 1589 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEBE
@@ -2965,7 +2965,7 @@ AnchorPoint: "Anchor-10" 481.36 1544.58 basechar 0
 LayerCount: 2
 Fore
 Refer: 31 1591 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 866.677 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 866.677 1043.01 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEC6
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEC8
@@ -3026,7 +3026,7 @@ AnchorPoint: "Anchor-10" 730.017 1631.35 basechar 0
 LayerCount: 2
 Fore
 Refer: 33 1593 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 631.975 1257.14 2
+Refer: 256 -1 S 1.07 0 0 1.07 631.975 1257.14 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFECE
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED0
@@ -3068,7 +3068,7 @@ AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 1133.45 1575.99 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1050.36 1218.62 2
+Refer: 256 -1 S 1.07 0 0 1.07 1050.36 1218.62 2
 Refer: 80 1697 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED2
@@ -3088,7 +3088,7 @@ AnchorPoint: "Anchor-10" 1049.87 1357.16 basechar 0
 LayerCount: 2
 Fore
 Refer: 74 1647 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 800.152 946.33 2
+Refer: 257 -1 S 1.07 0 0 1.07 800.152 946.33 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFED6
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFED8
@@ -3239,7 +3239,7 @@ AnchorPoint: "Anchor-7" 667.902 -608.086 basechar 0
 LayerCount: 2
 Fore
 Refer: 83 1722 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 737.663 546.758 2
+Refer: 256 -1 S 1.07 0 0 1.07 737.663 546.758 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEE6
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE8
@@ -3372,7 +3372,7 @@ AnchorPoint: "Anchor-10" 645.6 1144.22 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 1609 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 529.695 -755.436 2
+Refer: 257 -1 S 1.07 0 0 1.07 529.695 -755.436 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEF2
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEF4
@@ -4430,7 +4430,7 @@ AnchorPoint: "Anchor-7" 865.158 -808.082 basechar 0
 LayerCount: 2
 Fore
 Refer: 73 1646 N 1 0 0 1 0 0 2
-Refer: 267 -1 S 1.07 0 0 1.07 593.562 -415.637 2
+Refer: 259 -1 S 1.07 0 0 1.07 593.562 -415.637 2
 Validated: 1
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB58
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB59
@@ -4449,7 +4449,7 @@ AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 LayerCount: 2
 Fore
 Refer: 21 1581 N 1 0 0 1 0 0 2
-Refer: 267 -1 N 1.07 0 0 1.07 689.474 -71.5332 2
+Refer: 259 -1 N 1.07 0 0 1.07 689.474 -71.5332 2
 Validated: 1
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFB7C
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB7D
@@ -4468,7 +4468,7 @@ AnchorPoint: "Anchor-10" 797.986 1379.94 basechar 0
 LayerCount: 2
 Fore
 Refer: 25 1585 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 538.745 726.971 2
+Refer: 258 -1 S 1.07 0 0 1.07 538.745 726.971 2
 Validated: 1
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
 PairPos2: "'kern' Horizontal Kerning lookup 15-2" uniFBFE dx=58 dy=0 dh=58 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -4626,7 +4626,7 @@ AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 LayerCount: 2
 Fore
 Refer: 81 1705 S 1 0 0 1 0 0 2
-Refer: 273 -1 S 1.07 0 0 1.07 935.06 -404.991 2
+Refer: 265 -1 S 1.07 0 0 1.07 935.06 -404.991 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFB93
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFB95
@@ -4974,8 +4974,8 @@ AnchorPoint: "Anchor-10" 888.559 1032.91 basechar 0
 AnchorPoint: "Anchor-7" 895.158 -808.082 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 N 1.07 0 0 1.07 625.972 -415.637 2
-Refer: 268 -1 N 1 0 0 1 0 0 2
+Refer: 259 -1 N 1.07 0 0 1.07 625.972 -415.637 2
+Refer: 260 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -4991,7 +4991,7 @@ AnchorPoint: "Anchor-10" 351.001 1294.73 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 N 1 0 0 1 0 0 2
-Refer: 267 -1 S 1.07 0 0 1.07 613.469 -415.637 2
+Refer: 259 -1 S 1.07 0 0 1.07 613.469 -415.637 2
 Validated: 1
 EndChar
 
@@ -5006,7 +5006,7 @@ AnchorPoint: "Anchor-10" 339.044 1140.54 basechar 0
 AnchorPoint: "Anchor-7" 285.261 -955.229 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1.07 0 0 1.07 313.469 -415.637 2
+Refer: 259 -1 S 1.07 0 0 1.07 313.469 -415.637 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5037,7 +5037,7 @@ AnchorPoint: "Anchor-10" 641.478 1214.07 basechar 0
 AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 0.949625 0 0 0.949625 543.43 -158.073 2
+Refer: 259 -1 S 0.949625 0 0 0.949625 543.43 -158.073 2
 Refer: 173 65186 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5054,7 +5054,7 @@ AnchorPoint: "Anchor-7" 699.152 -905.626 basechar 0
 LayerCount: 2
 Fore
 Refer: 174 65187 N 1 0 0 1 0 0 2
-Refer: 267 -1 S 1.07 0 0 1.07 416.806 -415.637 2
+Refer: 259 -1 S 1.07 0 0 1.07 416.806 -415.637 2
 Validated: 1
 EndChar
 
@@ -5069,7 +5069,7 @@ AnchorPoint: "Anchor-7" 699.152 -905.626 basechar 0
 AnchorPoint: "Anchor-10" 581.825 1372.07 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 -1 S 1.07 0 0 1.07 416.806 -415.637 2
+Refer: 259 -1 S 1.07 0 0 1.07 416.806 -415.637 2
 Refer: 175 65188 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5100,7 +5100,7 @@ AnchorPoint: "Anchor-10" 897.986 1383.94 basechar 0
 AnchorPoint: "Anchor-7" 332.969 -649.998 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1.07 0 0 1.07 648.745 726.971 2
+Refer: 258 -1 S 1.07 0 0 1.07 648.745 726.971 2
 Refer: 185 65198 N 1 0 0 1 0 0 2
 Validated: 1
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
@@ -5279,7 +5279,7 @@ AnchorPoint: "Anchor-10" 687.878 1500.89 basechar 0
 AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 LayerCount: 2
 Fore
-Refer: 273 -1 S 1.07 0 0 1.07 695.06 -434.991 2
+Refer: 265 -1 S 1.07 0 0 1.07 695.06 -434.991 2
 Refer: 107 64399 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5296,7 +5296,7 @@ AnchorPoint: "Anchor-10" 682.966 1773.63 basechar 0
 LayerCount: 2
 Fore
 Refer: 108 64400 N 1 0 0 1 0 0 2
-Refer: 273 -1 S 1.07 0 0 1.07 464.686 -402.257 2
+Refer: 265 -1 S 1.07 0 0 1.07 464.686 -402.257 2
 Validated: 1
 EndChar
 
@@ -5311,7 +5311,7 @@ AnchorPoint: "Anchor-10" 542.966 1773.63 basechar 0
 AnchorPoint: "Anchor-7" 350.991 -231.935 basechar 0
 LayerCount: 2
 Fore
-Refer: 273 -1 S 1.07 0 0 1.07 324.686 -402.257 2
+Refer: 265 -1 S 1.07 0 0 1.07 324.686 -402.257 2
 Refer: 109 64401 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5502,7 +5502,7 @@ AnchorPoint: "Anchor-7" 1011.89 -643.77 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 729.705 -427.101 2
+Refer: 257 -1 S 1.07 0 0 1.07 729.705 -427.101 2
 Validated: 1
 EndChar
 
@@ -5517,7 +5517,7 @@ AnchorPoint: "Anchor-7" 551.891 -643.77 basechar 0
 AnchorPoint: "Anchor-10" 603.28 1372.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1.07 0 0 1.07 249.705 -427.101 2
+Refer: 257 -1 S 1.07 0 0 1.07 249.705 -427.101 2
 Refer: 119 64489 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -5841,7 +5841,7 @@ AnchorPoint: "Anchor-7" 668.357 -235.939 basechar 0
 LayerCount: 2
 Fore
 Refer: 54 1619 S 1 0 0 1 152.067 -177.736 2
-Refer: 297 -1 N 1 0 0 1 0 0 2
+Refer: 289 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -5872,7 +5872,7 @@ AnchorPoint: "Anchor-7" 342.442 -233.503 basechar 0
 LayerCount: 2
 Fore
 Refer: 55 1620 S 1 0 0 1 -478.135 -352.782 2
-Refer: 297 -1 N 1 0 0 1 0 0 2
+Refer: 289 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -6069,8 +6069,8 @@ AnchorPoint: "Anchor-7" 884.557 -586.977 basechar 0
 AnchorPoint: "Anchor-10" 888.559 1032.91 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1.07 0 0 1.07 775.396 -427.101 2
+Refer: 260 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 N 1.07 0 0 1.07 775.396 -427.101 2
 Validated: 1
 EndChar
 
@@ -6085,8 +6085,8 @@ AnchorPoint: "Anchor-10" 295.28 1114.77 basechar 0
 AnchorPoint: "Anchor-7" 658.251 -596.396 basechar 0
 LayerCount: 2
 Fore
-Refer: 300 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 545.123 -427.101 2
+Refer: 292 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 545.123 -427.101 2
 Validated: 1
 EndChar
 
@@ -6101,8 +6101,8 @@ AnchorPoint: "Anchor-7" 574.251 -590.396 basechar 0
 AnchorPoint: "Anchor-10" 319.28 1054.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 301 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 464.372 -427.101 2
+Refer: 293 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 464.372 -427.101 2
 Validated: 1
 EndChar
 
@@ -6133,7 +6133,7 @@ AnchorPoint: "Anchor-10" 686.721 1434.92 basechar 0
 LayerCount: 2
 Fore
 Refer: 245 65258 N 1 0 0 1 0 0 2
-Refer: 265 -1 N 1.07 0 0 1.07 437.662 1034.29 2
+Refer: 257 -1 N 1.07 0 0 1.07 437.662 1034.29 2
 Validated: 1
 EndChar
 
@@ -6163,8 +6163,8 @@ AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 880.559 1224.98 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 N 1.07 0 0 1.07 637.143 832.225 2
+Refer: 260 -1 N 1 0 0 1 0 0 2
+Refer: 257 -1 N 1.07 0 0 1.07 637.143 832.225 2
 Validated: 1
 EndChar
 
@@ -6180,7 +6180,7 @@ AnchorPoint: "Anchor-10" 1023.28 1332.77 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 S 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 736.218 944.776 2
+Refer: 257 -1 S 1.07 0 0 1.07 736.218 944.776 2
 Validated: 1
 EndChar
 
@@ -6196,7 +6196,7 @@ AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
 Refer: 119 64489 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 202.922 831.504 2
+Refer: 257 -1 S 1.07 0 0 1.07 202.922 831.504 2
 Validated: 1
 EndChar
 
@@ -6226,8 +6226,8 @@ AnchorPoint: "Anchor-7" 800.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 741.973 1438.04 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 -1 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 482.541 787.849 2
+Refer: 260 -1 N 1 0 0 1 0 0 2
+Refer: 258 -1 S 1.07 0 0 1.07 482.541 787.849 2
 Validated: 1
 EndChar
 
@@ -6243,7 +6243,7 @@ AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 64488 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 698.34 911.168 2
+Refer: 258 -1 S 1.07 0 0 1.07 698.34 911.168 2
 Validated: 1
 EndChar
 
@@ -6259,7 +6259,7 @@ AnchorPoint: "Anchor-10" 499.084 1468.48 basechar 0
 LayerCount: 2
 Fore
 Refer: 119 64489 N 1 0 0 1 0 0 2
-Refer: 266 -1 S 1.07 0 0 1.07 242.926 823.948 2
+Refer: 258 -1 S 1.07 0 0 1.07 242.926 823.948 2
 Validated: 1
 EndChar
 
@@ -6290,7 +6290,7 @@ AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 LayerCount: 2
 Fore
 Refer: 173 65186 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1.07 0 0 1.07 608.946 -215.132 2
+Refer: 256 -1 N 1.07 0 0 1.07 608.946 -215.132 2
 Validated: 1
 EndChar
 
@@ -6305,7 +6305,7 @@ AnchorPoint: "Anchor-10" 543.825 1186.07 basechar 0
 AnchorPoint: "Anchor-7" 677.068 -656.201 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1.07 0 0 1.07 575.909 -427.101 2
+Refer: 256 -1 N 1.07 0 0 1.07 575.909 -427.101 2
 Refer: 174 65187 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6321,7 +6321,7 @@ AnchorPoint: "Anchor-7" 677.068 -656.201 basechar 0
 AnchorPoint: "Anchor-10" 543.825 1186.07 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1.07 0 0 1.07 574.532 -427.101 2
+Refer: 256 -1 N 1.07 0 0 1.07 574.532 -427.101 2
 Refer: 175 65188 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6483,7 +6483,7 @@ AnchorPoint: "Anchor-10" 579.122 1427.84 basechar 0
 AnchorPoint: "Anchor-7" 616.833 -828.619 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 476.894 1078.26 2
+Refer: 256 -1 S 1.07 0 0 1.07 476.894 1078.26 2
 Refer: 173 65186 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6499,7 +6499,7 @@ AnchorPoint: "Anchor-7" 513.524 -234.745 basechar 0
 AnchorPoint: "Anchor-10" 534.905 1428.97 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 437.256 1055.34 2
+Refer: 256 -1 S 1.07 0 0 1.07 437.256 1055.34 2
 Refer: 174 65187 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6515,7 +6515,7 @@ AnchorPoint: "Anchor-10" 534.905 1428.97 basechar 0
 AnchorPoint: "Anchor-7" 513.524 -234.745 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 437.256 1055.34 2
+Refer: 256 -1 S 1.07 0 0 1.07 437.256 1055.34 2
 Refer: 175 65188 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6598,7 +6598,7 @@ AnchorPoint: "Anchor-10" 709.193 1543.66 basechar 0
 LayerCount: 2
 Fore
 Refer: 181 65194 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 617.563 1149.18 2
+Refer: 256 -1 S 1.07 0 0 1.07 617.563 1149.18 2
 Validated: 1
 EndChar
 
@@ -6732,7 +6732,7 @@ AnchorPoint: "Anchor-10" 931.256 1262.2 basechar 0
 AnchorPoint: "Anchor-7" 364.969 -769.998 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.10566 0 0 1.10566 839.057 791.912 2
+Refer: 256 -1 S 1.10566 0 0 1.10566 839.057 791.912 2
 Refer: 185 65198 N 1 0 0 1 0.618851 0 2
 Validated: 1
 Kerns2: 12 0 "'kern' Horizontal Kerning lookup 15-2" 25 0 "'kern' Horizontal Kerning lookup 15-2" 26 0 "'kern' Horizontal Kerning lookup 15-2" 43 0 "'kern' Horizontal Kerning lookup 15-2" 79 0 "'kern' Horizontal Kerning lookup 15-2" 156 0 "'kern' Horizontal Kerning lookup 15-2"
@@ -6975,7 +6975,7 @@ AnchorPoint: "Anchor-7" 651.902 -704.086 basechar 0
 AnchorPoint: "Anchor-10" 855.73 1422.68 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 S 1.07 0 0 1.07 610.63 759.052 2
+Refer: 258 -1 S 1.07 0 0 1.07 610.63 759.052 2
 Refer: 189 65202 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -6991,7 +6991,7 @@ AnchorPoint: "Anchor-10" 901.961 1436.67 basechar 0
 AnchorPoint: "Anchor-7" 749.534 -236.974 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1.07 0 0 1.07 649.608 821.192 2
+Refer: 258 -1 N 1.07 0 0 1.07 649.608 821.192 2
 Refer: 190 65203 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7007,7 +7007,7 @@ AnchorPoint: "Anchor-10" 901.961 1436.67 basechar 0
 AnchorPoint: "Anchor-7" 749.534 -236.974 basechar 0
 LayerCount: 2
 Fore
-Refer: 266 -1 N 1.07 0 0 1.07 650.092 821.192 2
+Refer: 258 -1 N 1.07 0 0 1.07 650.092 821.192 2
 Refer: 191 65204 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7197,7 +7197,7 @@ AnchorPoint: "Anchor-7" 651.902 -704.086 basechar 0
 AnchorPoint: "Anchor-10" 1142.53 1463.1 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1069.46 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 1069.46 1043.01 2
 Refer: 197 65210 S 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7213,7 +7213,7 @@ AnchorPoint: "Anchor-7" 719.209 -240.348 basechar 0
 AnchorPoint: "Anchor-10" 1121.52 1442.64 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1039.22 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 1039.22 1043.01 2
 Refer: 198 65211 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7229,7 +7229,7 @@ AnchorPoint: "Anchor-10" 1121.52 1442.64 basechar 0
 AnchorPoint: "Anchor-7" 719.209 -240.348 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 1039.22 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 1039.22 1043.01 2
 Refer: 199 65212 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7404,7 +7404,7 @@ AnchorPoint: "Anchor-7" 641.602 -238.453 basechar 0
 AnchorPoint: "Anchor-10" 481.36 1544.58 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1.07 0 0 1.07 866.677 1043.01 2
+Refer: 256 -1 N 1.07 0 0 1.07 866.677 1043.01 2
 Refer: 205 65218 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7420,7 +7420,7 @@ AnchorPoint: "Anchor-10" 319.36 1534.58 basechar 0
 AnchorPoint: "Anchor-7" 501.602 -238.453 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 707.232 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 707.232 1043.01 2
 Refer: 206 65219 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7436,7 +7436,7 @@ AnchorPoint: "Anchor-10" 319.36 1534.58 basechar 0
 AnchorPoint: "Anchor-7" 501.602 -238.453 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 707.232 1043.01 2
+Refer: 256 -1 S 1.07 0 0 1.07 707.232 1043.01 2
 Refer: 207 65220 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -7645,7 +7645,7 @@ AnchorPoint: "Anchor-10" 558.2 1362.9 basechar 0
 LayerCount: 2
 Fore
 Refer: 213 65226 N 1 0 0 1 0 0 2
-Refer: 264 -1 N 1.07 0 0 1.07 466.991 943.595 2
+Refer: 256 -1 N 1.07 0 0 1.07 466.991 943.595 2
 Validated: 1
 EndChar
 
@@ -7661,7 +7661,7 @@ AnchorPoint: "Anchor-10" 951.137 1483.38 basechar 0
 LayerCount: 2
 Fore
 Refer: 214 65227 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 856.145 1101.61 2
+Refer: 256 -1 S 1.07 0 0 1.07 856.145 1101.61 2
 EndChar
 
 StartChar: uniFED0
@@ -7676,7 +7676,7 @@ AnchorPoint: "Anchor-7" 554.511 -235.021 basechar 0
 LayerCount: 2
 Fore
 Refer: 215 65228 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 825.492 919.25 2
+Refer: 256 -1 S 1.07 0 0 1.07 825.492 919.25 2
 Validated: 1
 EndChar
 
@@ -7706,8 +7706,8 @@ AnchorPoint: "Anchor-7" 750.268 -236.468 basechar 0
 AnchorPoint: "Anchor-10" 1178.47 1438.31 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 N 1.07 0 0 1.07 1077.49 1032.26 2
-Refer: 269 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 N 1.07 0 0 1.07 1077.49 1032.26 2
+Refer: 261 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -7722,8 +7722,8 @@ AnchorPoint: "Anchor-10" 925.82 1582.93 basechar 0
 AnchorPoint: "Anchor-7" 369.018 -238.276 basechar 0
 LayerCount: 2
 Fore
-Refer: 270 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 826.298 1218.62 2
+Refer: 262 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 826.298 1218.62 2
 Validated: 1
 EndChar
 
@@ -7738,8 +7738,8 @@ AnchorPoint: "Anchor-10" 805.671 1419.52 basechar 0
 AnchorPoint: "Anchor-7" 461.873 -233.871 basechar 0
 LayerCount: 2
 Fore
-Refer: 271 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 708.507 1030.13 2
+Refer: 263 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 708.507 1030.13 2
 Validated: 1
 EndChar
 
@@ -7769,8 +7769,8 @@ AnchorPoint: "Anchor-10" 908.87 1320.96 basechar 0
 AnchorPoint: "Anchor-7" 595.902 -800.086 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 658.066 885.059 2
+Refer: 264 -1 N 1 0 0 1 0 0 2
+Refer: 257 -1 S 1.07 0 0 1.07 658.066 885.059 2
 Validated: 1
 EndChar
 
@@ -7785,8 +7785,8 @@ AnchorPoint: "Anchor-7" 369.018 -238.276 basechar 0
 AnchorPoint: "Anchor-10" 871.82 1584.93 basechar 0
 LayerCount: 2
 Fore
-Refer: 270 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 614.939 1215.87 2
+Refer: 262 -1 N 1 0 0 1 0 0 2
+Refer: 257 -1 S 1.07 0 0 1.07 614.939 1215.87 2
 Validated: 1
 EndChar
 
@@ -7801,8 +7801,8 @@ AnchorPoint: "Anchor-7" 461.873 -233.871 basechar 0
 AnchorPoint: "Anchor-10" 808.671 1513.52 basechar 0
 LayerCount: 2
 Fore
-Refer: 271 -1 N 1 0 0 1 0 0 2
-Refer: 265 -1 S 1.07 0 0 1.07 527.391 1021.17 2
+Refer: 263 -1 N 1 0 0 1 0 0 2
+Refer: 257 -1 S 1.07 0 0 1.07 527.391 1021.17 2
 Validated: 1
 EndChar
 
@@ -8250,7 +8250,7 @@ AnchorPoint: "Anchor-7" 651.902 -704.086 basechar 0
 AnchorPoint: "Anchor-10" 698.458 1034.61 basechar 0
 LayerCount: 2
 Fore
-Refer: 264 -1 S 1.07 0 0 1.07 597.179 495.307 2
+Refer: 256 -1 S 1.07 0 0 1.07 597.179 495.307 2
 Refer: 115 64415 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -8266,8 +8266,8 @@ AnchorPoint: "Anchor-10" 783.28 1308.77 basechar 0
 AnchorPoint: "Anchor-7" 287.891 -233.585 basechar 0
 LayerCount: 2
 Fore
-Refer: 300 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 691.664 945.93 2
+Refer: 292 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 691.664 945.93 2
 Validated: 1
 EndChar
 
@@ -8282,8 +8282,8 @@ AnchorPoint: "Anchor-7" 247.891 -233.585 basechar 0
 AnchorPoint: "Anchor-10" 629.28 1270.77 basechar 0
 LayerCount: 2
 Fore
-Refer: 301 -1 N 1 0 0 1 0 0 2
-Refer: 264 -1 S 1.07 0 0 1.07 536.65 830.005 2
+Refer: 293 -1 N 1 0 0 1 0 0 2
+Refer: 256 -1 S 1.07 0 0 1.07 536.65 830.005 2
 Validated: 1
 EndChar
 
@@ -8574,7 +8574,7 @@ AnchorPoint: "Anchor-10" 645.6 904.22 basechar 0
 AnchorPoint: "Anchor-7" 191.902 -870.086 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1.07 0 0 1.07 458.636 -829.309 2
+Refer: 257 -1 S 1.07 0 0 1.07 458.636 -829.309 2
 Refer: 251 65264 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
@@ -8609,203 +8609,8 @@ Refer: 123 64511 S 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
-StartChar: uniFEF5
-Encoding: 65269 65269 256
-GlifName: uniF_E_F_5
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 255.515 1808.66 baselig 1
-AnchorPoint: "Anchor-6" 328.021 -237.236 baselig 1
-AnchorPoint: "Anchor-6" 965.078 -233.453 baselig 0
-AnchorPoint: "Anchor-9" 975.46 1630.11 baselig 0
-LayerCount: 2
-Fore
-Refer: 54 1619 S 1 0 0 1 -186.846 -144.676 2
-Refer: 262 65275 N 1 0 0 1 0 0 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE82
-EndChar
-
-StartChar: uniFEF6
-Encoding: 65270 65270 257
-GlifName: uniF_E_F_6
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 975.46 1630.11 baselig 0
-AnchorPoint: "Anchor-6" 965.078 -233.453 baselig 0
-AnchorPoint: "Anchor-6" 328.021 -237.236 baselig 1
-AnchorPoint: "Anchor-9" 255.515 1808.66 baselig 1
-LayerCount: 2
-Fore
-Refer: 263 65276 N 1 0 0 1 0 0 2
-Refer: 54 1619 S 1 0 0 1 -186.846 -144.676 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE82
-EndChar
-
-StartChar: uniFEF7
-Encoding: 65271 65271 258
-GlifName: uniF_E_F_7
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 200.932 2049.88 baselig 1
-AnchorPoint: "Anchor-9" 979.46 1628.6 baselig 0
-AnchorPoint: "Anchor-6" 318.021 -242.333 baselig 1
-AnchorPoint: "Anchor-6" 955.078 -238.55 baselig 0
-LayerCount: 2
-Fore
-Refer: 55 1620 S 1 0 0 1 -455.429 -306.992 2
-Refer: 262 65275 N 1 0 0 1 0 0 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE84
-EndChar
-
-StartChar: uniFEF8
-Encoding: 65272 65272 259
-GlifName: uniF_E_F_8
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-6" 955.078 -238.55 baselig 0
-AnchorPoint: "Anchor-6" 318.021 -242.333 baselig 1
-AnchorPoint: "Anchor-9" 979.46 1628.6 baselig 0
-AnchorPoint: "Anchor-9" 192.932 2035.88 baselig 1
-LayerCount: 2
-Fore
-Refer: 263 65276 N 1 0 0 1 0 0 2
-Refer: 55 1620 N 1 0 0 1 -455.429 -306.992 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE84
-EndChar
-
-StartChar: uniFEF9
-Encoding: 65273 65273 260
-GlifName: uniF_E_F_9
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 978.01 1633.61 baselig 0
-AnchorPoint: "Anchor-9" 218.642 1569.64 baselig 1
-AnchorPoint: "Anchor-6" 377.719 -782.775 baselig 1
-AnchorPoint: "Anchor-6" 965.078 -243.453 baselig 0
-LayerCount: 2
-Fore
-Refer: 56 1621 N 1 0 0 1 -273.221 -176.513 2
-Refer: 262 65275 N 1 0 0 1 0 0 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE88
-EndChar
-
-StartChar: uniFEFA
-Encoding: 65274 65274 261
-GlifName: uniF_E_F_A_
-Width: 1600
-VWidth: 2703
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 978.01 1633.61 baselig 0
-AnchorPoint: "Anchor-9" 218.642 1569.64 baselig 1
-AnchorPoint: "Anchor-6" 965.078 -243.453 baselig 0
-AnchorPoint: "Anchor-6" 377.719 -782.775 baselig 1
-LayerCount: 2
-Fore
-Refer: 56 1621 N 1 0 0 1 -273.221 -176.513 2
-Refer: 263 65276 N 1 0 0 1 0 0 2
-Validated: 1
-LCarets2: 1 0
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEE0 uniFE88
-EndChar
-
-StartChar: uniFEFB
-Encoding: 65275 65275 262
-GlifName: uniF_E_F_B_
-Width: 1600
-VWidth: 2950
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 208.642 1507.64 baselig 1
-AnchorPoint: "Anchor-6" 248.021 -244.333 baselig 1
-AnchorPoint: "Anchor-6" 885.078 -240.55 baselig 0
-AnchorPoint: "Anchor-9" 938.01 1563.61 baselig 0
-LayerCount: 2
-Fore
-SplineSet
-249.2421875 1343.10351562 m 1,0,1
- 449.9765625 856.057617188 449.9765625 856.057617188 620.994140625 220.54296875 c 2,2,-1
- 621.541015625 218.510742188 l 1,3,-1
- 623.54296875 219.16015625 l 2,4,5
- 859.057617188 296.018554688 859.057617188 296.018554688 859.17578125 637.975585938 c 2,6,-1
- 859.4375 1396.28222656 l 1,7,-1
- 1024.47070312 1396.28222656 l 1,8,-1
- 1024.47070312 636.665039062 l 2,9,10
- 1024 3 1024 3 356.337890625 3.1279296875 c 0,11,12
- 220 3 220 3 135.040039062 18.34765625 c 1,13,-1
- 135.041992188 195.61328125 l 1,14,15
- 301.688476562 174.040039062 301.688476562 174.040039062 454.578125 184.28515625 c 2,16,-1
- 457.055664062 184.451171875 l 1,17,-1
- 456.365234375 186.8359375 l 2,18,19
- 259 870 259 870 91.9609375 1250.86914062 c 1,20,-1
- 249.2421875 1343.10351562 l 1,0,1
-EndSplineSet
-Validated: 33
-LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEDF uniFE8E
-EndChar
-
-StartChar: uniFEFC
-Encoding: 65276 65276 263
-GlifName: uniF_E_F_C_
-Width: 1600
-VWidth: 2950
-GlyphClass: 3
-Flags: W
-AnchorPoint: "Anchor-9" 938.01 1563.61 baselig 0
-AnchorPoint: "Anchor-9" 208.642 1507.64 baselig 1
-AnchorPoint: "Anchor-6" 885.078 -240.55 baselig 0
-AnchorPoint: "Anchor-6" 248.021 -244.333 baselig 1
-LayerCount: 2
-Fore
-SplineSet
-249.2421875 1343.10351562 m 1,0,1
- 449 858 449 858 621.541015625 218.510742188 c 1,2,3
- 859.057617188 296.018554688 859.057617188 296.018554688 859.17578125 637.975585938 c 2,4,-1
- 859.4375 1396.28222656 l 1,5,-1
- 1024.47070312 1396.28222656 l 1,6,-1
- 1024.47070312 546.666015625 l 1,7,8
- 1023 179.999023438 1023 179.999023438 1216.61425781 179.999023438 c 2,9,-1
- 1242.09667969 179.999023438 l 2,10,11
- 1260.1796875 180 1260.1796875 180 1260.1796875 105.174804688 c 2,12,-1
- 1260.1796875 86.3271484375 l 2,13,14
- 1260 0 1260 0 1242.09960938 0 c 2,15,-1
- 1213.0859375 0 l 2,16,17
- 981 0 981 0 915.790039062 228.717773438 c 1,18,19
- 752 3 752 3 356.337890625 3.1279296875 c 0,20,21
- 220 3 220 3 135.040039062 18.34765625 c 1,22,-1
- 135.041992188 195.61328125 l 1,23,24
- 302 174 302 174 457.055664062 184.451171875 c 1,25,26
- 260 865 260 865 91.9609375 1250.86914062 c 1,27,-1
- 249.2421875 1343.10351562 l 1,0,1
-EndSplineSet
-Validated: 33
-LCarets2: 1 0
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 16 subtable" uniFEE0 uniFE8E
-EndChar
-
 StartChar: arabic_dot
-Encoding: 65536 -1 264
+Encoding: 65536 -1 256
 GlifName: arabic_dot
 Width: 1600
 VWidth: 2646
@@ -8824,7 +8629,7 @@ Validated: 1
 EndChar
 
 StartChar: arabic_2dots
-Encoding: 65537 -1 265
+Encoding: 65537 -1 257
 GlifName: arabic_2dots
 Width: 1600
 VWidth: 2646
@@ -8848,7 +8653,7 @@ Validated: 1
 EndChar
 
 StartChar: arabic_3dots
-Encoding: 65538 -1 266
+Encoding: 65538 -1 258
 GlifName: arabic_3dots
 Width: 1600
 VWidth: 2646
@@ -8877,7 +8682,7 @@ Validated: 1
 EndChar
 
 StartChar: arabic_3dots_a
-Encoding: 65539 -1 267
+Encoding: 65539 -1 259
 GlifName: arabic_3dots_a
 Width: 1600
 VWidth: 2646
@@ -8906,7 +8711,7 @@ Validated: 1
 EndChar
 
 StartChar: uni066E.fina
-Encoding: 65540 -1 268
+Encoding: 65540 -1 260
 GlifName: uni066E_.fina
 Width: 1600
 VWidth: 2950
@@ -8942,7 +8747,7 @@ Validated: 33
 EndChar
 
 StartChar: uni06A1.fina
-Encoding: 65543 -1 269
+Encoding: 65543 -1 261
 GlifName: uni06A_1.fina
 Width: 1600
 VWidth: 2950
@@ -8988,7 +8793,7 @@ Validated: 33
 EndChar
 
 StartChar: uni06A1.init
-Encoding: 65544 -1 270
+Encoding: 65544 -1 262
 GlifName: uni06A_1.init
 Width: 1600
 VWidth: 2950
@@ -9027,7 +8832,7 @@ Validated: 33
 EndChar
 
 StartChar: uni06A1.medi
-Encoding: 65545 -1 271
+Encoding: 65545 -1 263
 GlifName: uni06A_1.medi
 Width: 1600
 VWidth: 2950
@@ -9072,7 +8877,7 @@ Validated: 33
 EndChar
 
 StartChar: uni066F.fina
-Encoding: 65546 -1 272
+Encoding: 65546 -1 264
 GlifName: uni066F_.fina
 Width: 1600
 VWidth: 2950
@@ -9122,7 +8927,7 @@ Validated: 33
 EndChar
 
 StartChar: arabic_gaf_bar
-Encoding: 65550 -1 273
+Encoding: 65550 -1 265
 GlifName: arabic_gaf_bar
 Width: 1600
 VWidth: 2765
@@ -9141,7 +8946,7 @@ Validated: 1
 EndChar
 
 StartChar: uni06D5.fina
-Encoding: 65551 -1 274
+Encoding: 65551 -1 266
 GlifName: uni06D_5.fina
 Width: 1600
 VWidth: 2703
@@ -9156,7 +8961,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0651064B
-Encoding: 65552 -1 275
+Encoding: 65552 -1 267
 GlifName: uni0651064B_
 Width: 1600
 VWidth: 2444
@@ -9177,7 +8982,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064B uni0
 EndChar
 
 StartChar: uni0651064C
-Encoding: 65553 -1 276
+Encoding: 65553 -1 268
 GlifName: uni0651064C_
 Width: 1600
 VWidth: 2444
@@ -9198,7 +9003,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064C uni0
 EndChar
 
 StartChar: uni064B0651
-Encoding: 65554 -1 277
+Encoding: 65554 -1 269
 GlifName: uni064B_0651
 Width: 1600
 VWidth: 2444
@@ -9219,7 +9024,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni064D uni0
 EndChar
 
 StartChar: uni0651064E
-Encoding: 65555 -1 278
+Encoding: 65555 -1 270
 GlifName: uni0651064E_
 Width: 1600
 VWidth: 2444
@@ -9240,7 +9045,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0
 EndChar
 
 StartChar: uni0651064F
-Encoding: 65556 -1 279
+Encoding: 65556 -1 271
 GlifName: uni0651064F_
 Width: 1600
 VWidth: 2444
@@ -9261,7 +9066,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0
 EndChar
 
 StartChar: uni064E0651
-Encoding: 65557 -1 280
+Encoding: 65557 -1 272
 GlifName: uni064E_0651
 Width: 1600
 VWidth: 2444
@@ -9282,7 +9087,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0650 uni0
 EndChar
 
 StartChar: uni0654064E
-Encoding: 65558 -1 281
+Encoding: 65558 -1 273
 GlifName: uni0654064E_
 Width: 1600
 VWidth: 2444
@@ -9303,7 +9108,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064E uni0
 EndChar
 
 StartChar: uni0654064F
-Encoding: 65559 -1 282
+Encoding: 65559 -1 274
 GlifName: uni0654064F_
 Width: 1600
 VWidth: 2444
@@ -9324,7 +9129,7 @@ Ligature2: "'rlig' Required Ligatures in Arabic lookup 15 subtable" uni064F uni0
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 283
+Encoding: 171 171 275
 GlifName: guillemotleft
 Width: 1600
 VWidth: 2316
@@ -9351,7 +9156,7 @@ Validated: 33
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 284
+Encoding: 187 187 276
 GlifName: guillemotright
 Width: 1600
 VWidth: 2316
@@ -9378,7 +9183,7 @@ Validated: 33
 EndChar
 
 StartChar: uni06CA
-Encoding: 1738 1738 285
+Encoding: 1738 1738 277
 GlifName: uni06C_A_
 Width: 1600
 VWidth: 2703
@@ -9387,29 +9192,29 @@ AnchorPoint: "Anchor-7" 361.126 -614.556 basechar 0
 AnchorPoint: "Anchor-10" 740.479 1375.01 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 493.097 932.816 2
+Refer: 257 -1 S 1 0 0 1 493.097 932.816 2
 Refer: 43 1608 N 1 0 0 1 0 0 2
 Validated: 1
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CA.fina
 EndChar
 
 StartChar: uni06CA.fina
-Encoding: 65561 -1 286
+Encoding: 65561 -1 278
 GlifName: uni06C_A_.fina
 Width: 1600
 VWidth: 2703
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-10" 670.479 1300.01 basechar 0
 AnchorPoint: "Anchor-7" 370.126 -590.556 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 -1 S 1 0 0 1 462.097 932.816 2
+Refer: 257 -1 S 1 0 0 1 462.097 932.816 2
 Refer: 249 65262 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni202F
-Encoding: 8239 8239 287
+Encoding: 8239 8239 279
 GlifName: uni202F_
 Width: 1600
 VWidth: -3
@@ -9420,7 +9225,7 @@ Validated: 1
 EndChar
 
 StartChar: uni200B
-Encoding: 8203 8203 288
+Encoding: 8203 8203 280
 GlifName: uni200B_
 Width: 1600
 VWidth: -3
@@ -9431,7 +9236,7 @@ Validated: 1
 EndChar
 
 StartChar: afii61664
-Encoding: 8204 8204 289
+Encoding: 8204 8204 281
 GlifName: afii61664
 Width: 1600
 VWidth: -3
@@ -9442,7 +9247,7 @@ Validated: 1
 EndChar
 
 StartChar: afii301
-Encoding: 8205 8205 290
+Encoding: 8205 8205 282
 GlifName: afii301
 Width: 1600
 VWidth: -3
@@ -9453,7 +9258,7 @@ Validated: 1
 EndChar
 
 StartChar: uni06C0
-Encoding: 1728 1728 291
+Encoding: 1728 1728 283
 GlifName: uni06C_0
 Width: 1600
 VWidth: 2959
@@ -9462,7 +9267,7 @@ AnchorPoint: "Anchor-7" 458.59 -231.677 basechar 0
 AnchorPoint: "Anchor-10" 741.183 1894.9 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 S 1 0 0 1 324.037 1484.8 2
+Refer: 290 -1 S 1 0 0 1 324.037 1484.8 2
 Refer: 42 1607 N 1 0 0 1 0 0 2
 Validated: 1
 LCarets2: 1 0
@@ -9471,7 +9276,7 @@ Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFBA5.fina
 EndChar
 
 StartChar: uniFBA5.fina
-Encoding: 64421 64421 292
+Encoding: 64421 64421 284
 GlifName: uniF_B_A_5.fina
 Width: 1600
 VWidth: 2959
@@ -9480,7 +9285,7 @@ AnchorPoint: "Anchor-7" 484.642 -234.09 basechar 0
 AnchorPoint: "Anchor-10" 610.954 1813.59 basechar 0
 LayerCount: 2
 Fore
-Refer: 298 -1 S 1 0 0 1 167.631 1375.52 2
+Refer: 290 -1 S 1 0 0 1 167.631 1375.52 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
 Validated: 1
 LCarets2: 1 0
@@ -9488,7 +9293,7 @@ Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uniFEEA uni0
 EndChar
 
 StartChar: NameMe.302
-Encoding: 65562 -1 293
+Encoding: 65562 -1 285
 GlifName: N_ameM_e.302
 Width: 1600
 VWidth: 2950
@@ -9519,7 +9324,7 @@ Validated: 33
 EndChar
 
 StartChar: NameMe.303
-Encoding: 65563 -1 294
+Encoding: 65563 -1 286
 GlifName: N_ameM_e.303
 Width: 1600
 VWidth: 2950
@@ -9543,7 +9348,7 @@ Validated: 33
 EndChar
 
 StartChar: uniFDF2
-Encoding: 65010 65010 295
+Encoding: 65010 65010 287
 GlifName: uniF_D_F_2
 Width: 1600
 VWidth: 2959
@@ -9555,8 +9360,8 @@ Fore
 Refer: 75 1648 N 1 0 0 1 639.008 125.101 2
 Refer: 52 1617 N 1 0 0 1 704.86 -177.866 2
 Refer: 245 65258 N 1 0 0 1 0 0 2
-Refer: 293 -1 N 1 0 0 1 952.14 0 2
-Refer: 294 -1 N 1 0 0 1 1603.36 0 2
+Refer: 285 -1 N 1 0 0 1 952.14 0 2
+Refer: 286 -1 N 1 0 0 1 1603.36 0 2
 Refer: 15 1575 N 1 0 0 1 2150.75 0 2
 Validated: 5
 LCarets2: 3 0 0 0
@@ -9564,7 +9369,7 @@ Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" uni0627 uniF
 EndChar
 
 StartChar: uniFDFC
-Encoding: 65020 65020 296
+Encoding: 65020 65020 288
 GlifName: uniF_D_F_C_
 Width: 1600
 VWidth: 2957
@@ -9574,13 +9379,13 @@ Fore
 Refer: 39 1604 N 1 0 0 1 0 0 2
 Refer: 25 1585 N 1 0 0 1 2344.78 -58.9384 2
 Refer: 118 64488 N 1 0 0 1 1893.93 0 2
-Refer: 265 -1 N 1.07 0 0 1.07 1745.81 -362.413 2
+Refer: 257 -1 N 1.07 0 0 1.07 1745.81 -362.413 2
 Refer: 153 65166 N 1 0 0 1 1352.8 0 2
 Validated: 5
 EndChar
 
 StartChar: NameMe.65564
-Encoding: 65564 -1 297
+Encoding: 65564 -1 289
 GlifName: N_ameM_e.65564
 Width: 1600
 VWidth: 2950
@@ -9606,7 +9411,7 @@ Validated: 33
 EndChar
 
 StartChar: NameMe.65565
-Encoding: 65565 -1 298
+Encoding: 65565 -1 290
 GlifName: N_ameM_e.65565
 Width: 1600
 VWidth: 2953
@@ -9643,7 +9448,7 @@ Validated: 33
 EndChar
 
 StartChar: uni060D
-Encoding: 1549 1549 299
+Encoding: 1549 1549 291
 Width: 1600
 VWidth: 4038
 Flags: W
@@ -9660,7 +9465,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.65541
-Encoding: 65541 -1 300
+Encoding: 65541 -1 292
 Width: 1600
 VWidth: 2950
 Flags: W
@@ -9685,7 +9490,7 @@ Validated: 33
 EndChar
 
 StartChar: NameMe.65542
-Encoding: 65542 -1 301
+Encoding: 65542 -1 293
 Width: 1600
 VWidth: 2950
 Flags: W
