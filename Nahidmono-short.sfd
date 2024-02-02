@@ -4,7 +4,7 @@ FullName: Nahidmono-short
 FamilyName: Nahidmono-short
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.\nChanges by Erfan Kheyrollahi are in SIL OFL v1.1
-Version: 0.4.1
+Version: 0.4.2
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706829304
+ModificationTime: 1706867026
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -9172,12 +9172,12 @@ Fore
 SplineSet
 1026.61816406 86.294921875 m 1,0,1
  1028 0 1028 0 1008.53710938 0 c 2,2,-1
- 547.658203125 0 l 6,3,4
- 96.283203125 0 96.283203125 0 96.283203125 436.395507812 c 6,5,-1
- 96.283203125 1256.171875 l 5,6,-1
- 261.598632812 1256.171875 l 5,7,-1
- 261.598632812 438.447265625 l 6,8,9
- 262.000010616 179.993164063 262.000010616 179.993164063 550.712890625 179.993164062 c 6,10,-1
+ 547.658203125 0 l 2,3,4
+ 96.283203125 0 96.283203125 0 96.283203125 436.395507812 c 2,5,-1
+ 96.283203125 1256.171875 l 1,6,-1
+ 261.598632812 1256.171875 l 1,7,-1
+ 261.598632812 438.447265625 l 2,8,9
+ 262.000010616 179.993164063 262.000010616 179.993164063 550.712890625 179.993164062 c 2,10,-1
  1008.5390625 179.993164062 l 2,11,12
  1026.61816406 179.999858609 1026.61816406 179.999858609 1026.61816406 105.174804688 c 2,13,-1
  1026.61816406 86.294921875 l 1,0,1
