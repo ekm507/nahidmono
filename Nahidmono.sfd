@@ -4,7 +4,7 @@ FullName: Nahidmono
 FamilyName: Nahidmono
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nChanges by Saber Rastikerdar are in public domain.\nNon-Arabic(Latin) glyphs and data in extended version are imported from Roboto font under the Apache License, Version 2.0.\nChanges by Erfan Kheyrollahi are SIL OFL v1.1
-Version: 0.4.0
+Version: 0.4.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1706866403
+ModificationTime: 1706866992
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -8042,7 +8042,7 @@ GlifName: uniF_E_E_0
 Width: 1600
 VWidth: 2950
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-7" 669.812 -238.234 basechar 0
 AnchorPoint: "Anchor-10" 746.751 1527.45 basechar 0
 LayerCount: 2
